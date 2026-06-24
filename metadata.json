@@ -1,0 +1,6 @@
+{
+  "name": "Pyramid Stacker",
+  "description": "An addictive geometric physics timing stacker app with premium 2.5D rendering, multiple custom atmospheric visual themes, and local highscore data persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
